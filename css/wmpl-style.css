@@ -29,8 +29,11 @@ article > header > h1 {
   flex: 1 1 auto;
 }
 
-article > header > nav a {
+article > header > nav {
   flex: 1 0 auto;
+}
+
+article > header > nav a {
   background-color: #f8f9fa;
   padding: 0.5em 0.75em;
   border-radius: 5px;
